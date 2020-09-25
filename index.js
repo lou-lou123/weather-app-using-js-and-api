@@ -1,5 +1,5 @@
 // API id and placeholders
-const api = 'e7652d5534b54f70b6bcc3ed30756373';
+const api = '';
 // const city = `melbourne`;
 // const country = `Au`;
 // const measurement = `units=metric`
