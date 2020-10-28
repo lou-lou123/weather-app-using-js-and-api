@@ -6,6 +6,8 @@ Created weather app that calls the API to check weather for a city.
 As explained above. Although it is basic, it was a interesting project that taught me more about how to use APIs and js to create something useful. This was created during Academy Xi bootcamp.
 
 It is worth noting the API key is removed to avoid abuse or misuse.
-# License
-You can check out the full license [here](
-This project is licensed under the terms of the MIT license.
+## Usage
+Add API key to const api = '' in index.js to make use of weather app.
+## License
+You can check out the full license [here](https://github.com/lou-lou123/weather-app-using-js-and-api/blob/master/LICENSE)
+This project is licensed under the terms of the GNU license.
